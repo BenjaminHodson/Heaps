@@ -1,0 +1,49 @@
+Binomial
+Min
+Heap A
+Ins 22
+Ins 15
+Ins 10
+Rem A
+Ins 99
+Ins 120
+Ins 3
+Ins 17
+Ins 2
+Ins 9
+Ins 23
+Print A
+Heap B
+Ins 23
+Ins 16
+Ins 11
+Ins 100
+Ins 121
+Ins 4
+Ins 18
+Ins 3
+Ins 10
+Ins 24
+print b
+sort 3
+Print B
+Heap c
+Ins 24
+Ins 17
+Ins 11
+Ins 100
+Print c
+print a
+Rem A
+Heap d
+
+Ins 24
+Ins 17
+Ins 11
+
+Merge A, D, C
+
+print H
+
+
+
